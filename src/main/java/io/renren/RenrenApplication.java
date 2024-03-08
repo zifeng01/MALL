@@ -19,4 +19,9 @@ public class RenrenApplication {
 		SpringApplication.run(RenrenApplication.class, args);
 	}
 
+	public void test(){
+
+	}
+
 }
+
